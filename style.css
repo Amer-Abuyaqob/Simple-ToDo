@@ -69,6 +69,6 @@ span{
     margin: 10px;
 }
 
-.checkbox{
-    background-color: #721385;
+.checkbox:checked{
+    accent-color: #5A1486;
 }
