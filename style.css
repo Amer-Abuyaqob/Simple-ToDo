@@ -28,6 +28,11 @@ h1{
     color: #641A8F;
 }
 
+.add{
+    display: flex;
+    justify-content: space-between;
+}
+
 button{
     background-color: #5A1486;
     border: none;
@@ -46,7 +51,7 @@ button:hover{
     border: 1px solid #ccc;
     border-radius: 5px;
     color: #ccc;
-    width: 70%;
+    width: 71%;
 }
 
 ul{
